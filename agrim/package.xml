@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package>
+  <name>argv</name>
+  <version>0.0.1</version>
+  <description>Meta package for Graph Based Rechability Mapping and Base Placement</description>
+
+  <author email="makhabhi@isu.edu">Robotics Developer</author>
+  <maintainer email="makhabhi@isu.edu">Robotics Developer</maintainer>
+
+  <license>BSD</license>
+    
+  
+  <url type="repository">https://github.com/RobotPlacement/agrim</url>
+  
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  
+
+  <export>
+    <metapackage/>
+  </export>
+</package>
+
